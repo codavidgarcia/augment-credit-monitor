@@ -55,7 +55,7 @@
 
 | Platform | Download | Size |
 |----------|----------|------|
-| **macOS** (Apple Silicon) | [📦 Download DMG](https://github.com/codavidgarcia/augment-credit-monitor/releases/download/v1.0.0/Augment-Credit-Monitor_1.0.0_aarch64.dmg) | ~8.6 MB |
+| **macOS** (Apple Silicon) | [📦 Download DMG](https://github.com/codavidgarcia/augment-credit-monitor/releases/download/releases/Augment.Credit.Monitor_1.0.0_aarch64.dmg) | ~8.6 MB |
 
 > **Note**: Currently only macOS Apple Silicon build is available. Intel and Linux builds coming soon.
 
